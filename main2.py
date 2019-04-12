@@ -1,21 +1,21 @@
 import json
 
 data = {
-"Grupppa":`
+"Grupppa":"vpi11"`
 [
  {
- "FIO": "Myrzin A.M.",
+ "FIO": "Borisenko Anna Evgenyievna",
  "address":
     {
  "Country": "Russia",
- "City": "Feodosia (Krim)",
+ "City": "Rostov-on-Don",
  "Street": "chelnoki"
     },
 "contacs":
     {
- "VK": "vk/id12121",
- "Twitter": "блааваб",
- "Primichanie": "норм чувак",
+ "VK": "vk.com/borrisca_ancka",
+ "Twitter": "Не пользуется",
+ "Primichanie": "Лучшая староста в мире",
     },
 "phoneNumbers":
     [
@@ -24,23 +24,23 @@ data = {
     ]
  },
  {
- "FIO": "Jukov",
+ "FIO": "Arkhipov Mikhail Aleksandrovich",
  "address":
     {
  "Country": "Russia",
- "City": "St.Petersburg",
- "Street": "Ddadad"
+ "City": "Feodosia",
+ "Street": "Pervushina"
     },
 "contacs":
     {
  "VK": "vk/id12121",
- "Twitter": "блааваб",
- "Primichanie": "алкашь",
+ "Twitter": "Нема такого",
+ "Primichanie": "its me",
     },
 "phoneNumbers":
     [
- "812 123-1234",
- "916 123-4567"
+ "812 123-12344",
+ "916 123-45674"
     ]
  }
 ]
